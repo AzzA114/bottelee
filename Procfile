@@ -1,1 +1,0 @@
-working: php bot_telegram.php
